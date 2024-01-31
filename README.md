@@ -1,2 +1,2 @@
 # HIOFrameFramework
-A repo to quikly build Frames for Farcaster
+A repo to quickly build Frames for Farcaster
